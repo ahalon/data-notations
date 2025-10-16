@@ -1,0 +1,26 @@
+Create a new project named Famous. Use Git to track any changes.
+
+In the project, create a markdown document famousperson.md dedicated to any famous person. The document should include:
+
+A title or heading with the person’s name
+An image of the person
+a short description of the person (2-3 paragraphs) who he or she is
+A timeline of the person’s life in the form of a list
+At least two links to more detailed information available online
+Convert MD document to HTML. Save the HTML document to the repository with the name index.html
+
+Transfer local to remote repository.
+
+Share the HTML document online. GitHub Pages is a free service offered by GitHub that lets you host websites directly from your GitHub repository. It is often used to publish documentation, portfolios, blogs, project pages, and other static content.
+
+Read a manual on how to create a GitHub pages site:
+
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
+Turn on the GitHub Pages service in your repository.
+
+Display information about a famous person in your web browser. A link to your project website (replace a username and repository with the proper values):
+
+http://username.github.io/repository
+
+Please note that it usually takes a few minutes after GitHub Pages starts for the resource to be visible on the web. This way, using GitHub Pages, you can easily publish any information about any project (GitHub repository) on the Internet. Have fun!
